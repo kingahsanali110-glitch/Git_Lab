@@ -1,4 +1,4 @@
-# 🎓 Week 5: Machine Learning with Scikit-Learn Labs
+Machine Learning with Scikit-Learn Labs
 
 A comprehensive collection of hands-on lab notebooks for learning Machine Learning fundamentals using Python and Scikit-Learn.
 
